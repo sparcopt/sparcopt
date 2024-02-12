@@ -12,6 +12,12 @@ I'm a passionate .NET developer from Portugal.
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#7](https://github.com/sparcopt/bifrost-hub/issues/7) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+2. 🎉 Merged PR [#35](https://github.com/sparcopt/bifrost-hub/pull/35) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+3. 💪 Opened PR [#35](https://github.com/sparcopt/bifrost-hub/pull/35) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+4. 🎉 Merged PR [#34](https://github.com/sparcopt/bifrost-hub/pull/34) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+5. 💪 Opened PR [#34](https://github.com/sparcopt/bifrost-hub/pull/34) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+<!--END_SECTION:activity-->
 
 ## 📊 Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparcopt&show_icons=true&locale=en&layout=compact" alt="sparcopt" /></p>
