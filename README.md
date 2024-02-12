@@ -1,4 +1,4 @@
-# 👋 Hi there
+## 👋 Hi there
 
 I'm a passionate .NET developer from Portugal.
 
@@ -9,6 +9,9 @@ I'm a passionate .NET developer from Portugal.
 
 ## 🧰 Toolbox
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bash,linux,git,docker,kubernetes,cassandra,mongodb,grafana,jenkins,kafka,raspberrypi,unity,vim)](https://skillicons.dev)
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
 
 ## 📊 Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparcopt&show_icons=true&locale=en&layout=compact" alt="sparcopt" /></p>
