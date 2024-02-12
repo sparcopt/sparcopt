@@ -20,7 +20,7 @@ I'm a passionate .NET developer from Portugal.
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparcopt&show_icons=true&locale=en&layout=compact" alt="sparcopt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparcopt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sparcopt" /></p>
 
 ## 🌐 Socials
 <p align="left">
