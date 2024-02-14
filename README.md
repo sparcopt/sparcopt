@@ -12,11 +12,11 @@ I'm a passionate .NET developer from Portugal.
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/sparcopt/bifrost-hub/pull/41) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-2. 💪 Opened PR [#41](https://github.com/sparcopt/bifrost-hub/pull/41) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-3. 🎉 Merged PR [#40](https://github.com/sparcopt/bifrost-hub/pull/40) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-4. 💪 Opened PR [#40](https://github.com/sparcopt/bifrost-hub/pull/40) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-5. 🎉 Merged PR [#39](https://github.com/sparcopt/bifrost-hub/pull/39) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+1. ❗ Opened issue [#42](https://github.com/sparcopt/bifrost-hub/issues/42) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+2. 🎉 Merged PR [#41](https://github.com/sparcopt/bifrost-hub/pull/41) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+3. 💪 Opened PR [#41](https://github.com/sparcopt/bifrost-hub/pull/41) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+4. 🎉 Merged PR [#40](https://github.com/sparcopt/bifrost-hub/pull/40) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+5. 💪 Opened PR [#40](https://github.com/sparcopt/bifrost-hub/pull/40) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
