@@ -12,11 +12,11 @@ I'm a passionate .NET developer from Portugal.
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/sparcopt/odin-eye/issues/7) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
-2. 🎉 Merged PR [#31](https://github.com/sparcopt/odin-eye/pull/31) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
-3. ❗ Opened issue [#44](https://github.com/sparcopt/bifrost-hub/issues/44) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-4. 💪 Opened PR [#31](https://github.com/sparcopt/odin-eye/pull/31) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
-5. 🔒 Closed issue [#42](https://github.com/sparcopt/bifrost-hub/issues/42) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+1. 🎉 Merged PR [#32](https://github.com/sparcopt/odin-eye/pull/32) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+2. 💪 Opened PR [#32](https://github.com/sparcopt/odin-eye/pull/32) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+3. 🔒 Closed issue [#7](https://github.com/sparcopt/odin-eye/issues/7) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+4. 🎉 Merged PR [#31](https://github.com/sparcopt/odin-eye/pull/31) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+5. ❗ Opened issue [#44](https://github.com/sparcopt/bifrost-hub/issues/44) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
