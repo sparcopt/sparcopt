@@ -12,11 +12,11 @@ I'm a passionate .NET developer from Portugal.
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/sparcopt/bifrost-hub/issues/38#issuecomment-2025442089) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-2. ❗ Opened issue [#45](https://github.com/sparcopt/bifrost-hub/issues/45) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
-3. 🎉 Merged PR [#33](https://github.com/sparcopt/odin-eye/pull/33) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
-4. 💪 Opened PR [#33](https://github.com/sparcopt/odin-eye/pull/33) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
-5. 🎉 Merged PR [#32](https://github.com/sparcopt/odin-eye/pull/32) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+1. 💪 Opened PR [#46](https://github.com/sparcopt/bifrost-hub/pull/46) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+2. 🗣 Commented on [#38](https://github.com/sparcopt/bifrost-hub/issues/38#issuecomment-2025442089) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+3. ❗ Opened issue [#45](https://github.com/sparcopt/bifrost-hub/issues/45) in [sparcopt/bifrost-hub](https://github.com/sparcopt/bifrost-hub)
+4. 🎉 Merged PR [#33](https://github.com/sparcopt/odin-eye/pull/33) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
+5. 💪 Opened PR [#33](https://github.com/sparcopt/odin-eye/pull/33) in [sparcopt/odin-eye](https://github.com/sparcopt/odin-eye)
 <!--END_SECTION:activity-->
 
 ## 📊 Stats
